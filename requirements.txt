@@ -1,0 +1,11 @@
+numpy
+pandas
+openpyxl
+xarray
+netCDF4
+scipy
+pykrige
+matplotlib
+tqdm
+jupyter
+ipykernel
